@@ -30,4 +30,5 @@
 
 <div>
  <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/" target="_blank"><img height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+ <a href="https://www.instagram.com/baian_yo/" target="_blank"><img height="30" widht="40" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" target="_blank"></a>
 </div>
