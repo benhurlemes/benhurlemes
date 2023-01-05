@@ -32,5 +32,8 @@
  <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/" target="_blank"><img height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  <a href="https://www.instagram.com/baian_yo/" target="_blank"><img height="30" widht="40" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" target="_blank"></a>
  <a href="https://twitter.com/BaianKun?t=Hmh3DZt3_uoKoIrZHtNSUg&s=08" target="_blank"><img height="30" widht="40" src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" target="_blank"></a>
- <a href="mailto:benhurlemes1@gmail.com"><img height="30" widht="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" target="_blank"></a>>
+ <a href="mailto:benhurlemes1@gmail.com"><img height="30" widht="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" target="_blank"></a>
+
+       ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
