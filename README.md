@@ -21,9 +21,6 @@
   <img alt="Baian-Davinci" align="right" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg">
   <img alt="Baian-VSc" align="right" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="Baian-Blender" align="right" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
-   
-   gif que vou fazer:
-  <img alt="Baian-pic" align="right" height="30" width="40" height="150" style="border-radius:50px;" src="">
 </div>
 
 ##
