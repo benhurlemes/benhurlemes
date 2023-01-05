@@ -21,6 +21,9 @@
   <img alt="Baian-Davinci" align="right" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg">
   <img alt="Baian-VSc" align="right" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="Baian-Blender" align="right" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+   
+   gif que vou fazer:
+  <img alt="Baian-pic" align="right" height="30" width="40" height="150" style="border-radius:50px;" src="">
 </div>
 
 ##
@@ -29,4 +32,5 @@
  <a href="https://www.linkedin.com/in/benhur-lemes-da-silva-664963255/" target="_blank"><img height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
  <a href="https://www.instagram.com/baian_yo/" target="_blank"><img height="30" widht="40" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" target="_blank"></a>
  <a href="https://twitter.com/BaianKun?t=Hmh3DZt3_uoKoIrZHtNSUg&s=08" target="_blank"><img height="30" widht="40" src="https://www.svgrepo.com/show/303115/twitter-3-logo.svg" target="_blank"></a>
+ <a href="mailto:benhurlemes1@gmail.com"><img height="30" widht="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" target="_blank"></a>>
 </div>
